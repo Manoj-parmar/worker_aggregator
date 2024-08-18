@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "274969181831",
+    "firebase_url": "https://mark-5-3fb73-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mark-5-3fb73",
+    "storage_bucket": "mark-5-3fb73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274969181831:android:9849f8b66a65cce4558222",
+        "android_client_info": {
+          "package_name": "com.example.mark_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274969181831-d10n3calh5kf6ma2ui0ft8qm30fjn3lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YLDoDaCwNKaAYduftGOfrodtfTZMWTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274969181831-d10n3calh5kf6ma2ui0ft8qm30fjn3lf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "274969181831-5t0an4957jh9g5qud7dfv26fetlfjoq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mark5"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
